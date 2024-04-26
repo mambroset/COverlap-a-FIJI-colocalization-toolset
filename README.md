@@ -18,7 +18,7 @@ This 4 steps Fiji/ImageJ toolset is intended for the 3D co-localization of two n
 	
 	Apply changes and restart ImageJ.
 
-3. Download the [.ijm toolset file](/COverlap_Toolset.ijm)
+3. Download the [.ijm toolset file](https://raw.githubusercontent.com/mambroset/COverlap-a-Fiji-co-localization-toolset/main/COverlap_Toolset.ijm)
 4. Locate your ImageJ or Fiji folder
 5. Put the .ijm toolset file in the Fiji.app > macros > toolsets folder
 6. Open ImageJ/Fiji, click on the red double arrow (>>) right of the tools and select the COverlap toolset
